@@ -1,0 +1,17 @@
+# Build output
+out/
+
+# Temporary files
+.smoke/
+
+# Java compiled files
+*.class
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
